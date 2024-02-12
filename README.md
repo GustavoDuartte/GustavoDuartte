@@ -4,13 +4,7 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node.js to frontend development using JavaScript, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack junior developer</strong> focused on web development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustavoDuartte&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-GustavoDuartte.vercel.app/api/top-langs/?username=GustavoDuartte&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+
 
 
 
