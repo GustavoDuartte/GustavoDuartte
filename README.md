@@ -1,5 +1,4 @@
-<h2>Hi</h2>
-<h3>I'm Gustavo</h3>
+<h1 align="center"><strong>Hi</strong></h1>
 
 
 
