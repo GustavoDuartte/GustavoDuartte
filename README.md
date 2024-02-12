@@ -1,6 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/GustavoDuartte/GustavoDuartte/blob/main/assets/ceu.png" />
-Hi <span style="opacity:0;">I'm</span> <span style="opacity:0;">Gustavo</span>
+<img align="center" style="margin-bottom:100px" width=100% src="" />
 
 &nbsp;&nbsp;&nbsp;
 
