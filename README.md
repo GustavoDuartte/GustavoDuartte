@@ -1,5 +1,7 @@
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/GustavoDuartte/GustavoDuartte/blob/main/assets/ceu.png" />
+Hi <span style="opacity:0;">I'm</span> <span style="opacity:0;">Gustavo</span>
+
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node.js to frontend development using JavaScript, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack junior developer</strong> focused on web development.</p>&nbsp;
